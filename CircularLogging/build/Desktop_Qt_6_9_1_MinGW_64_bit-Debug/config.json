@@ -1,0 +1,6 @@
+{
+  "log_type": "minutely",
+  "log_interval": 2,
+  "max_logs": 3,
+  "log_directory": "log"
+}
